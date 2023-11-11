@@ -8,7 +8,7 @@ You cand find what this studies are about in the next webpage: "<a href="https:/
 ---
 
 All this projects are un-finished and they are not even half of the projects and activities that we have done during the two years of the course (2021-2023).
-It should be noted that although most of these projects/activities are done in Flutter, the majority of the course was focused on programming with C# and Microsoft SQL Server in the .NET framework using Visual Studio and not on the development of mobile applications with Flutter.
+It should be noted that although four of these projects/activities are done in Flutter, the majority of the course was focused on programming with C# and using Microsoft SQL Server in the .NET framework using Visual Studio and not on the development of mobile applications with Flutter.
 
 #
 
