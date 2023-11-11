@@ -2,7 +2,7 @@
 
 **`Ciclo Formativo Grado Superior en Desarrollo de Aplicaciones Multiplataforma`**
 
-You cand find what this studies are about in the next hyperlink: "<a href="[https://www.linkedin.com/in/manel-cagig%C3%B3s-a2097a226/](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)" target="_blank">TodoFP</a>".
+You cand find what this studies are about in the next hyperlink: "<a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html" target="_blank">TodoFP</a>".
 
 ---
 
@@ -11,3 +11,4 @@ All this projects are un-finished and they are not even half of the projects and
 #
 
 
+https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html
