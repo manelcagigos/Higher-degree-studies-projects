@@ -1,7 +1,7 @@
 # 📚 Manel Cagigós - School projects
 
 Name of the type of studies:
-**`Ciclo Formativo Grado Superior en Desarrollo de Aplicaciones Multiplataforma`**
+**`Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma`**
 
 You cand find what this studies are about in the next webpage: "<a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html" target="_blank">TodoFP</a>".
 
