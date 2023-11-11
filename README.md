@@ -1,5 +1,4 @@
 # 📚 Manel Cagigós - School projects
-Here you can find some of the projects that I did during my CFGS (type of Spain studies) Multiplatform Application Development.
 
 **`Ciclo Formativo Grado Superior en Desarrollo de Aplicaciones Multiplataforma`**
 
