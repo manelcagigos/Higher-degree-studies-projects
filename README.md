@@ -13,12 +13,11 @@ It should be noted that although most of these projects/activities are done in F
 
 ## My Projects
 
-- [Project 1](https://github.com/manelcagigos/Sprint4-Grupo4)
-- [Project 2](https://github.com/manelcagigos/Aplicacion-Bloc-de-Notas-Flutter)
-- [Project 3](https://github.com/manelcagigos/Flutter-pelis_api_master)
-- [Project 4](https://github.com/manelcagigos/Proyecto-SecureCode)
-- [Project 5](https://github.com/manelcagigos/Flutter-digimon_app-master-main)
-- [Project 6](https://github.com/manelcagigos/Flutter-Api-to-Sql-Lite)
-- [Project 7](https://github.com/manelcagigos/Flutter-Dart)
-- [Project 8](https://github.com/manelcagigos/Sprint3-Simps)
-- [Project 9](https://github.com/manelcagigos/Sprint-1-M13)
+- [Project 1 - C#](https://github.com/manelcagigos/Sprint4-Grupo4)
+- [Project 2 - Dart/Flutter](https://github.com/manelcagigos/Aplicacion-Bloc-de-Notas-Flutter)
+- [Project 3 - Dart/Flutter](https://github.com/manelcagigos/Flutter-pelis_api_master)
+- [Project 4 - C#](https://github.com/manelcagigos/Proyecto-SecureCode)
+- [Project 5 - Dart/Flutter](https://github.com/manelcagigos/Flutter-digimon_app-master-main)
+- [Project 6 - Dart/Flutter](https://github.com/manelcagigos/Flutter-Api-to-Sql-Lite)
+- [Project 7 - C#](https://github.com/manelcagigos/Sprint3-Simps)
+- [Project 8 - C#](https://github.com/manelcagigos/Sprint-1-M13)
