@@ -22,3 +22,4 @@ It should be noted that although four of these projects/activities are done in F
 - [Project 6 - Dart/Flutter](https://github.com/manelcagigos/Flutter-Api-to-Sql-Lite)
 - [Project 7 - C#](https://github.com/manelcagigos/Sprint3-Simps)
 - [Project 8 - C#](https://github.com/manelcagigos/Sprint-1-M13)
+- [Final Course Project - C#](https://github.com/manelcagigos/PACS-FinalProject)
