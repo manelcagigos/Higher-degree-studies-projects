@@ -3,7 +3,7 @@
 Name of the type of studies:
 **`Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma`**
 
-You cand find what this studies are about in the next webpage: "<a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html" target="_blank">TodoFP</a>".
+You cand find what this studies are about in the next webpage: "<a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html" target="_blank">TodoFP</a>"[^1].
 
 ---
 
@@ -24,3 +24,5 @@ It should be noted that although four of these projects/activities are done in F
 - [Project 7 - C#](https://github.com/manelcagigos/Sprint3-Simps)
 - [Project 8 - C#](https://github.com/manelcagigos/Sprint-1-M13)
 - [Final Course Project - C#](https://github.com/manelcagigos/PACS-FinalProject)
+
+[^1]: This is the official website of the studies I took during my 18 and 20 years, and it is from the Minister of Education of the Government of Spain.
