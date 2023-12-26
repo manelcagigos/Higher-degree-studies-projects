@@ -14,7 +14,7 @@ It should be noted that although four of these projects/activities are done in F
 #
 
 ## My Projects
-<sub>This projects are not in order of what we did in the course</sub>
+<sub>Note: This projects are not in order of what we did in the course.</sub>
 
 - [Project 1 - C#](https://github.com/manelcagigos/Sprint4-Grupo4)
 - [Project 2 - Dart/Flutter](https://github.com/manelcagigos/Aplicacion-Bloc-de-Notas-Flutter)
