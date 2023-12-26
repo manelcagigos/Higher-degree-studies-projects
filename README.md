@@ -25,4 +25,4 @@ It should be noted that although four of these projects/activities are done in F
 - [Project 8 - C#](https://github.com/manelcagigos/Sprint-1-M13)
 - [Final Course Project - C#](https://github.com/manelcagigos/PACS-FinalProject)
 
-[^1]: This is the official website of the studies I did during my 18 to 20 years, and it is from the Ministry of Education of the Government of Spain.
+[^1]: This is the official website of the studies I did during my 18 to 20 years, this web page is from the Ministry of Education of the Government of Spain.
